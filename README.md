@@ -4,9 +4,17 @@
 
 <br/>
 
-## 커밋 메시지 컨벤션
+## 커밋 메시지 설명
 
-<온라인 저지 사이트 명>-<문제 번호>-<문제 이름>
+1. [BAEKJOON ONLINE JUDGE](https://www.acmicpc.net)
+
+    BOJ-<문제 번호>-<문제 이름>
+
+2. [Programmers](https://programmers.co.kr)
+
+    Programmers-<문제 이름>
+
+2021.09.05 커밋 이후 적용
 
 <br/>
 
