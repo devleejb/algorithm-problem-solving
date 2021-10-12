@@ -22,4 +22,4 @@
 
 ### 백준
 
-- 1644번 소수의 연속합 [문제](https://www.acmicpc.net/problem/1644) / [풀이](https://distinct-bulb-c95.notion.site/1644-85119f79ffce4bfd9fcc1b91da36e288)
+- 1644번 소수의 연속합 [문제](https://www.acmicpc.net/problem/1644) / [소스 코드](BOJ/1644-prime_sum.cpp) / [풀이](https://distinct-bulb-c95.notion.site/1644-85119f79ffce4bfd9fcc1b91da36e288)
