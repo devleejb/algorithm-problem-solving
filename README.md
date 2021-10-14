@@ -25,3 +25,5 @@
 - 1644번 소수의 연속합 [문제](https://www.acmicpc.net/problem/1644) / [소스 코드](BOJ/1644-prime_sum.cpp) / [풀이](https://distinct-bulb-c95.notion.site/1644-85119f79ffce4bfd9fcc1b91da36e288)
 - 1107번 리모컨 [문제](https://www.acmicpc.net/problem/1107) / [소스 코드](BOJ/1107-remotecontroller.cpp) / [풀이](https://distinct-bulb-c95.notion.site/1107-0a7ecbe49469467da7846c65c48f720a)
 - 6064번 카잉 달력 [문제](https://www.acmicpc.net/problem/1107) / [소스 코드](BOJ/6064-kaying.cpp) / [풀이](https://distinct-bulb-c95.notion.site/6064-5723fe949b8f45b7ac9e98394e808312)
+- 1062번 가르침 [문제](https://www.acmicpc.net/problem/1062) / [소스 코드](BOJ/1062-teaching.cpp) / [풀이](https://distinct-bulb-c95.notion.site/1062-fe95166c182044f08afdd20aeafe613c)
+- 1987번 알파벳 [문제](https://www.acmicpc.net/problem/1987) / [소스 코드](BOJ/1987-alphabet.cpp) / [풀이](https://distinct-bulb-c95.notion.site/1987-20bda1feafc74e7e9cac576158622b9c)
