@@ -27,3 +27,4 @@
 - 6064번 카잉 달력 [문제](https://www.acmicpc.net/problem/1107) / [소스 코드](BOJ/6064-kaying.cpp) / [풀이](https://distinct-bulb-c95.notion.site/6064-5723fe949b8f45b7ac9e98394e808312)
 - 1062번 가르침 [문제](https://www.acmicpc.net/problem/1062) / [소스 코드](BOJ/1062-teaching.cpp) / [풀이](https://distinct-bulb-c95.notion.site/1062-fe95166c182044f08afdd20aeafe613c)
 - 1987번 알파벳 [문제](https://www.acmicpc.net/problem/1987) / [소스 코드](BOJ/1987-alphabet.cpp) / [풀이](https://distinct-bulb-c95.notion.site/1987-20bda1feafc74e7e9cac576158622b9c)
+- 1806번 부분합 [문제](https://www.acmicpc.net/problem/1806) / [소스 코드](BOJ/1806-part_sum.cpp) / [풀이](https://distinct-bulb-c95.notion.site/1806-67110c6fdebb4c6a8341116d345a8056)
