@@ -29,3 +29,4 @@
 - 1987번 알파벳 [문제](https://www.acmicpc.net/problem/1987) / [소스 코드](BOJ/1987-alphabet.cpp) / [풀이](https://distinct-bulb-c95.notion.site/1987-20bda1feafc74e7e9cac576158622b9c)
 - 1806번 부분합 [문제](https://www.acmicpc.net/problem/1806) / [소스 코드](BOJ/1806-part_sum.cpp) / [풀이](https://distinct-bulb-c95.notion.site/1806-67110c6fdebb4c6a8341116d345a8056)
 - 1208번 부분 수열의 합 2 [문제](https://www.acmicpc.net/problem/1208) / [소스 코드](BOJ/1208-subseries_sum_2.cpp) / [풀이](https://distinct-bulb-c95.notion.site/1208-2-b6d4f98fc87645639c91e7330cfafc62)
+- 2143번 두 배열의 합 [문제](https://www.acmicpc.net/problem/2143) / [소스 코드](BOJ/2143-two_array_sum.cpp) / [풀이](https://distinct-bulb-c95.notion.site/2143-485a1d52d38946a497553b0b26b1d90f)
