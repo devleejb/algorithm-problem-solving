@@ -33,4 +33,5 @@
 - 7453번 합이 0인 네 정수 [문제](https://www.acmicpc.net/problem/7453) / [소스 코드](BOJ/7453-four_num_sum_0.cpp) / [풀이](https://distinct-bulb-c95.notion.site/7453-0-1afbe512e51444f9b859a0ab2313ead4)
 - 1248번 맞춰봐 [문제](https://www.acmicpc.net/problem/1248) / [소스 코드](BOJ/1248-give_answer.cpp) / [풀이](https://distinct-bulb-c95.notion.site/1248-438162ce2d354fcb8226d6c967e4b019)
 - 2580번 스도쿠 [문제](https://www.acmicpc.net/problem/2580) / [소스 코드](BOJ/2580-sudoku.cpp) / [풀이](https://distinct-bulb-c95.notion.site/2580-7bd5452b86904cbf836a85681be3587f)
-- 13460번 구슬 탈출 2 [문제](https://www.acmicpc.net/problem/13460) / [소스 코드](BOJ/13460-ball_exit.cpp) / [풀이] (https://distinct-bulb-c95.notion.site/13460-2-1a168125551844e998c423d4fe76697a);
+- 13460번 구슬 탈출 2 [문제](https://www.acmicpc.net/problem/13460) / [소스 코드](BOJ/13460-ball_exit.cpp) / [풀이](https://distinct-bulb-c95.notion.site/13460-2-1a168125551844e998c423d4fe76697a);
+- 12100번 2048(Easy) [문제](https://www.acmicpc.net/problem/12100) / [소스 코드](BOJ/12100-2048(Easy).cpp) / [풀이](https://distinct-bulb-c95.notion.site/12100-2048-Easy-3fd52d3229fd4f93b2410e64afbb67f7)
