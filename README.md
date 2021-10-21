@@ -36,3 +36,4 @@
 - 13460번 구슬 탈출 2 [문제](https://www.acmicpc.net/problem/13460) / [소스 코드](BOJ/13460-ball_exit.cpp) / [풀이](https://distinct-bulb-c95.notion.site/13460-2-1a168125551844e998c423d4fe76697a);
 - 12100번 2048(Easy) [문제](https://www.acmicpc.net/problem/12100) / [소스 코드](BOJ/12100-2048(Easy).cpp) / [풀이](https://distinct-bulb-c95.notion.site/12100-2048-Easy-3fd52d3229fd4f93b2410e64afbb67f7)
 - 13913번 숨바꼭질4 [문제](https://www.acmicpc.net/problem/13913) / [소스 코드](BOJ/13913-hide_and_seek_4.cpp) / [풀이](https://distinct-bulb-c95.notion.site/13913-4-c2166c67093340be8076bbfc2bf3f41c)
+- 9019번 DSLR [문제](https://www.acmicpc.net/problem/9019) / [소스 코드](BOJ/9019-DSLR.cpp) / [풀이](https://distinct-bulb-c95.notion.site/9019-DSLR-51b0d47ddd4342c194c30fb44478c1c4)
