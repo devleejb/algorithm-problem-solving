@@ -39,3 +39,4 @@
 - 9019번 DSLR [문제](https://www.acmicpc.net/problem/9019) / [소스 코드](BOJ/9019-DSLR.cpp) / [풀이](https://distinct-bulb-c95.notion.site/9019-DSLR-51b0d47ddd4342c194c30fb44478c1c4)
 - 1525번 퍼즐 [문제](https://www.acmicpc.net/problem/1525) / [소스 코드](BOJ/1525-puzzle.cpp) / [풀이](https://distinct-bulb-c95.notion.site/1525-0616504278464828b001b9f5eb835911)
 - 2251번 물통 [문제](https://www.acmicpc.net/problem/2251) / [소스 코드](BOJ/2251-water_bottle.cpp) / [풀이](https://distinct-bulb-c95.notion.site/2251-f8b4c749b88b447b9eb9567b4dda1ea3)
+- 12851번 숨바꼭질 2 [문제](https://www.acmicpc.net/problem/12851) / [소스 코드](BOJ/12851-hide_and_seek_2.cpp) / [풀이](https://distinct-bulb-c95.notion.site/12851-2-15647e2a6b084fda983c5403a278744f)
