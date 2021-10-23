@@ -40,3 +40,4 @@
 - 1525번 퍼즐 [문제](https://www.acmicpc.net/problem/1525) / [소스 코드](BOJ/1525-puzzle.cpp) / [풀이](https://distinct-bulb-c95.notion.site/1525-0616504278464828b001b9f5eb835911)
 - 2251번 물통 [문제](https://www.acmicpc.net/problem/2251) / [소스 코드](BOJ/2251-water_bottle.cpp) / [풀이](https://distinct-bulb-c95.notion.site/2251-f8b4c749b88b447b9eb9567b4dda1ea3)
 - 12851번 숨바꼭질 2 [문제](https://www.acmicpc.net/problem/12851) / [소스 코드](BOJ/12851-hide_and_seek_2.cpp) / [풀이](https://distinct-bulb-c95.notion.site/12851-2-15647e2a6b084fda983c5403a278744f)
+- 8111번 0과 1 [문제](https://www.acmicpc.net/problem/8111) / [소스 코드](BOJ/8111-zero_one.cpp) / [풀이](https://distinct-bulb-c95.notion.site/8111-0-1-ec34838c0ab94e7d8e8362aa05db8b18)
