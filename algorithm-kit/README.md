@@ -16,7 +16,7 @@
 
 ### 그리디
 
-- Coming Soon!
+- [이론 - 그리디 알고리즘](./greedy/README.md)
 
 ### 구현
 
