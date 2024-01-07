@@ -17,6 +17,7 @@
 ### 그리디
 
 - [이론 - 그리디 알고리즘](./greedy/README.md)
+- 예제 - BOJ 18185번 라면 사기 (Small)([문제](https://www.acmicpc.net/problem/18185) / [풀이](./greedy/boj-18185-ramen.py))
 
 ### 구현
 
