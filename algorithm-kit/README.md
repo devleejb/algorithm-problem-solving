@@ -18,7 +18,8 @@
 
 - [이론 - 그리디 알고리즘](./greedy/README.md)
 - 예제 - BOJ 18185번 라면 사기 (Small)([문제](https://www.acmicpc.net/problem/18185) / [풀이](./greedy/boj-18185-ramen.py))
-- 예제 - BOJ 1781 컵라면 (Small)([문제](https://www.acmicpc.net/problem/1781) / [풀이](./greedy/boj-1781-cup_ramen.py))
+- 예제 - BOJ 1781번 컵라면 (Small)([문제](https://www.acmicpc.net/problem/1781) / [풀이](./greedy/boj-1781-cup_ramen.py))
+- 예제 - BOJ 2212번 센서([문제](https://www.acmicpc.net/problem/2212) / [풀이](./greedy/boj-2212-sensor.py))
 
 ### 구현
 
