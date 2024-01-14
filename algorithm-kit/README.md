@@ -31,6 +31,7 @@
 ### DFS/BFS
 
 - [이론 - DFS와 BFS](./dfs_bfs/README.md)
+- 예제 - BOJ 7569번 토마토([문제](https://www.acmicpc.net/problem/7569) / [풀이](./dfs_bfs/7569-tomato.py))
 
 ### 정렬
 
