@@ -36,7 +36,7 @@
 
 ### 정렬
 
-- Coming Soon!
+- [이론 - 정렬](./sort/README.md)
 
 ### 이진 탐색 (Binary Search)
 
