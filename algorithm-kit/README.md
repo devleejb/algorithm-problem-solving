@@ -38,6 +38,7 @@
 
 - [이론 - 정렬](./sort/README.md)
 - 예제 - BOJ 3151번 합이 0([문제](https://www.acmicpc.net/problem/3151) / [풀이](./sort/boj-3151-sum_0.py))
+- 예제 - BOJ 18114번 블랙 프라이데이([문제](https://www.acmicpc.net/problem/18114) / [풀이](./sort/boj-18114-black_friday.py))
 
 ### 이진 탐색 (Binary Search)
 
