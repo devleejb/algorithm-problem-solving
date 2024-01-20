@@ -45,6 +45,7 @@
 - [이론 - 이진 탐색](./binary_search/README.md)
 - 예제 - BOJ 1202번 보석 도둑([문제](https://www.acmicpc.net/problem/1202) / [풀이](./binary_search/BOJ-1202-thief.py))
 - 예제 - BOJ 7662번 이중 우선순위 큐([문제](https://www.acmicpc.net/problem/7662) / [풀이](./binary_search/BOJ-7662-double_pq.py))
+- 예제 - BOJ 19700번 수업([문제](https://www.acmicpc.net/problem/19700) / [풀이](./binary_search/BOJ-19700-class.py))
 
 ### 다이나믹 프로그래밍 (DP)
 
