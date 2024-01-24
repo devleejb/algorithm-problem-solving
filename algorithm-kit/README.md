@@ -52,6 +52,7 @@
 - [이론 - 다이나믹 프로그래밍](./dynamic_programming/README.md)
 - 예제 - BOJ 2631번 줄 세우기([문제](https://www.acmicpc.net/problem/2631) / [풀이](./dynamic_programming/boj-2631-line_up.py))
 - 예제 - BOJ 1309번 동물원([문제](https://www.acmicpc.net/problem/1309) / [풀이](./dynamic_programming/boj-1309-zoo.py))
+- 예제 - BOJ 1562번 계단 수([문제](https://www.acmicpc.net/problem/1562) / [풀이](./dynamic_programming/boj-1562-stair_number.py))
 
 ### 최단 경로
 
