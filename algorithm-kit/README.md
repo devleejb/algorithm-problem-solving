@@ -56,7 +56,7 @@
 
 ### 최단 경로
 
-- Coming Soon!
+- [이론 - 다익스트라](./shortest_path/README.md)
 
 ### 그래프 이론
 
