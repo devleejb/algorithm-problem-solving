@@ -57,6 +57,7 @@
 ### 최단 경로
 
 - [이론 - 다익스트라](./shortest_path/README.md)
+- 예제 - BOJ 1753번 최단경로([문제](https://www.acmicpc.net/problem/1753) / [풀이](./shortest_path/boj-1753-shortest_path.py))
 
 ### 그래프 이론
 
