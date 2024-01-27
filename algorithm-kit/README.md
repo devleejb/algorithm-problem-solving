@@ -58,6 +58,7 @@
 
 - [이론 - 다익스트라](./shortest_path/README.md)
 - 예제 - BOJ 1753번 최단경로([문제](https://www.acmicpc.net/problem/1753) / [풀이](./shortest_path/boj-1753-shortest_path.py))
+- 예제 - BOJ 11779번 최소비용 구하기 2([문제](https://www.acmicpc.net/problem/11779) / [풀이](./shortest_path/boj-11779-min_cost_2.py))
 
 ### 그래프 이론
 
