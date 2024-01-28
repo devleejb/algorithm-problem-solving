@@ -56,7 +56,7 @@
 
 ### 최단 경로
 
-- [이론 - 다익스트라](./shortest_path/README.md)
+- [이론 - 다익스트라 / 플로이드 워셜](./shortest_path/README.md)
 - 예제 - BOJ 1753번 최단경로([문제](https://www.acmicpc.net/problem/1753) / [풀이](./shortest_path/boj-1753-shortest_path.py))
 - 예제 - BOJ 11779번 최소비용 구하기 2([문제](https://www.acmicpc.net/problem/11779) / [풀이](./shortest_path/boj-11779-min_cost_2.py))
 - 예제 - BOJ 17835번 면접보는 승범이네([문제](https://www.acmicpc.net/problem/17835) / [풀이](./shortest_path/boj-17835-interview.py))
