@@ -62,6 +62,8 @@
 - 예제 - BOJ 17835번 면접보는 승범이네([문제](https://www.acmicpc.net/problem/17835) / [풀이](./shortest_path/boj-17835-interview.py))
 - 예제 - BOJ 11780번 플로이드 2([문제](https://www.acmicpc.net/problem/11780) / [풀이](./shortest_path/boj-11780-floyd_2.py))
 - 예제 - BOJ 21940번 가운데에서 만나기([문제](https://www.acmicpc.net/problem/21940) / [풀이](./shortest_path/boj-21940-middle.py))
+- 예제 - BOJ 17182번 우주 탐사선([문제](https://www.acmicpc.net/problem/17182) / [풀이](./shortest_path/boj-17182-rocket.py))
+
 
 ### 그래프 이론
 
