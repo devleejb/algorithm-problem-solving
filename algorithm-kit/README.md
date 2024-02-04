@@ -67,4 +67,5 @@
 
 ### 그래프 이론
 
-- Coming Soon!
+- [이론 - 서로소 집함](./disjoint_set/README.md)
+
