@@ -68,4 +68,5 @@
 ### 그래프 이론
 
 - [이론 - 서로소 집함](./disjoint_set/README.md)
-
+- 예제 - BOJ 1717번 집합의 표현([문제](https://www.acmicpc.net/problem/1717) / [풀이](./disjoint_set/boj-1717-set_expression.py))
+- 예제 - BOJ 4195번 친구 네트워크([문제](https://www.acmicpc.net/problem/4195) / [풀이](./disjoint_set/boj-4195-friend_network.py))
