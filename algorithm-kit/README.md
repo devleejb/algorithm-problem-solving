@@ -73,3 +73,4 @@
 - 예제 - BOJ 20040번 사이클 게임([문제](https://www.acmicpc.net/problem/20040) / [풀이](./disjoint_set/boj-20040-cycle_game.py))
 - [이론 - MST(Minimum Spanning Tree)](./mst/README.md)
 - 예제 - BOJ 1647번 도시 분할([문제](https://www.acmicpc.net/problem/1647) / [풀이](./mst/boj-1647-split_city.py))
+- 예제 - BOJ 1922번 네트워크 연결([문제](https://www.acmicpc.net/problem/1922) / [풀이](./mst/boj-1922-network_connection.py))
