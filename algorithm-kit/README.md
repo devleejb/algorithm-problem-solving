@@ -72,3 +72,4 @@
 - 예제 - BOJ 4195번 친구 네트워크([문제](https://www.acmicpc.net/problem/4195) / [풀이](./disjoint_set/boj-4195-friend_network.py))
 - 예제 - BOJ 20040번 사이클 게임([문제](https://www.acmicpc.net/problem/20040) / [풀이](./disjoint_set/boj-20040-cycle_game.py))
 - [이론 - MST(Minimum Spanning Tree)](./mst/README.md)
+- 예제 - BOJ 1647번 도시 분할([문제](https://www.acmicpc.net/problem/1647) / [풀이](./mst/boj-1647-split_city.py))
