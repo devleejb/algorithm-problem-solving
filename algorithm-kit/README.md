@@ -74,3 +74,4 @@
 - [이론 - MST(Minimum Spanning Tree)](./mst/README.md)
 - 예제 - BOJ 1647번 도시 분할([문제](https://www.acmicpc.net/problem/1647) / [풀이](./mst/boj-1647-split_city.py))
 - 예제 - BOJ 1922번 네트워크 연결([문제](https://www.acmicpc.net/problem/1922) / [풀이](./mst/boj-1922-network_connection.py))
+- 예제 - BOJ 13418번 학교 탐방하기([문제](https://www.acmicpc.net/problem/13418) / [풀이](./mst/boj-13418-traverse_school.py))
