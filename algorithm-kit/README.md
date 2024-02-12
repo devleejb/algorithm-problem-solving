@@ -76,3 +76,4 @@
 - 예제 - BOJ 1922번 네트워크 연결([문제](https://www.acmicpc.net/problem/1922) / [풀이](./mst/boj-1922-network_connection.py))
 - 예제 - BOJ 13418번 학교 탐방하기([문제](https://www.acmicpc.net/problem/13418) / [풀이](./mst/boj-13418-traverse_school.py))
 - [이론 - 위상 정렬](./topological_sort/README.md)
+- 예제 - BOJ 2623번 음악프로그램([문제](https://www.acmicpc.net/problem/2623) / [풀이](./topological_sort/boj-2623-music_program.py))
