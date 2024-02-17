@@ -84,3 +84,4 @@
 
 - [이론 - 에라토스테네스의 체](./sieve_of_eratosthenes/README.md)
 - 예제 - BOJ 1456번 거의 소수([문제](https://www.acmicpc.net/problem/1456) / [풀이](./sieve_of_eratosthenes/almost_prime.py))
+- 예제 - BOJ 1016번 제곱 ㄴㄴ수([문제](https://www.acmicpc.net/problem/1016) / [풀이](./sieve_of_eratosthenes/boj-1016-no_square_num.py))
