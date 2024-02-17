@@ -79,3 +79,7 @@
 - 예제 - BOJ 2623번 음악프로그램([문제](https://www.acmicpc.net/problem/2623) / [풀이](./topological_sort/boj-2623-music_program.py))
 - 예제 - BOJ 2056번 작업([문제](https://www.acmicpc.net/problem/2056) / [풀이](./topological_sort/boj-2056-task.py))
 - 예제 - BOJ 2637번 장난감 조립([문제](https://www.acmicpc.net/problem/2637) / [풀이](./topological_sort/boj-2637-toy.py))
+
+### 기타 알고리즘
+
+- [이론 - 에라토스테네스의 체](./sieve_of_eratosthenes/README.md)
