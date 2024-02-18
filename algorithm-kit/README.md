@@ -64,7 +64,6 @@
 - 예제 - BOJ 21940번 가운데에서 만나기([문제](https://www.acmicpc.net/problem/21940) / [풀이](./shortest_path/boj-21940-middle.py))
 - 예제 - BOJ 17182번 우주 탐사선([문제](https://www.acmicpc.net/problem/17182) / [풀이](./shortest_path/boj-17182-rocket.py))
 
-
 ### 그래프 이론
 
 - [이론 - 서로소 집함](./disjoint_set/README.md)
@@ -85,3 +84,4 @@
 - [이론 - 에라토스테네스의 체](./sieve_of_eratosthenes/README.md)
 - 예제 - BOJ 1456번 거의 소수([문제](https://www.acmicpc.net/problem/1456) / [풀이](./sieve_of_eratosthenes/almost_prime.py))
 - 예제 - BOJ 1016번 제곱 ㄴㄴ수([문제](https://www.acmicpc.net/problem/1016) / [풀이](./sieve_of_eratosthenes/boj-1016-no_square_num.py))
+- 예제 - BOJ 9213번 꽤 좋은 수([문제](https://www.acmicpc.net/problem/9213) / [풀이](./sieve_of_eratosthenes/boj-9123-good_number.py))
