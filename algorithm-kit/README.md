@@ -86,3 +86,4 @@
 - 예제 - BOJ 1016번 제곱 ㄴㄴ수([문제](https://www.acmicpc.net/problem/1016) / [풀이](./sieve_of_eratosthenes/boj-1016-no_square_num.py))
 - 예제 - BOJ 9213번 꽤 좋은 수([문제](https://www.acmicpc.net/problem/9213) / [풀이](./sieve_of_eratosthenes/boj-9123-good_number.py))
 - [이론 - 투 포인터](./two_pointer/README.md)
+- 예제 - BOJ 2461번 대표 선수([문제](https://www.acmicpc.net/problem/2461) / [풀이](./two_pointer/boj-2461-representative_player.py))
