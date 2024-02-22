@@ -88,3 +88,4 @@
 - [이론 - 투 포인터](./two_pointer/README.md)
 - 예제 - BOJ 2461번 대표 선수([문제](https://www.acmicpc.net/problem/2461) / [풀이](./two_pointer/boj-2461-representative_player.py))
 - 예제 - BOJ 2283번 구간 자르기([문제](https://www.acmicpc.net/problem/2283) / [풀이](./two_pointer/boj-2283-cut_interval.py))
+- 예제 - BOJ 20366번 같이 눈사람 만들래?([문제](https://www.acmicpc.net/problem/20366) / [풀이](./two_pointer/boj-20366-snowman.py))
