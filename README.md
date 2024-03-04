@@ -2,8 +2,6 @@
 
 본 저장소는 알고리즘 문제 풀이 정답 소스코드를 담고 있습니다.
 
-<br/>
-
 ## Commit Convention (For Problem)
 
 ### [BAEKJOON ONLINE JUDGE](https://www.acmicpc.net)
@@ -14,9 +12,7 @@
 
 - `Programmers-<문제 이름>`
 
-  2021.09.05 커밋 이후 적용
-
-<br/>
+> 2021.09.05 커밋 이후 적용
 
 ## Directory Structure
 
