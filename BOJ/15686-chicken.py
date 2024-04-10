@@ -1,6 +1,5 @@
 from sys import stdin, maxsize
 from copy import deepcopy
-from math import sqrt
 
 input = stdin.readline
 
